@@ -1,0 +1,11 @@
+public class ProblemName{
+    
+    public static void main(String[] args) {
+        var testCase = ;
+        System.out.println(solution(testCase));
+    }
+
+    public int solution(var testCase){
+        // Your Code comes here
+    }
+}
