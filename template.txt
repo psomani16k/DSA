@@ -5,7 +5,7 @@ public class ProblemName{
         System.out.println(solution(testCase));
     }
 
-    public int solution(var testCase){
+    public static int solution(var testCase){
         // Your Code comes here
     }
 }
