@@ -32,3 +32,4 @@ def daysMissed():
             print(colored(checkDate.strftime('%d-%m-%y'), 'red'))
         checkDate = checkDate + dt.timedelta(1)
 
+daysMissed()
